@@ -209,7 +209,7 @@ hr.small {
     padding: 50px 0;
 }
 
-.call-to-action .btn {
+.btn {
     margin: 10px;
 }
 
@@ -217,6 +217,7 @@ hr.small {
 
 .map {
     height: 500px;
+    width: 100%;
 }
 
 @media(max-width:768px) {
